@@ -1,5 +1,3 @@
-# Assignment1
-
 package com.demo.assignment1;
 
 import java.util.Scanner;
